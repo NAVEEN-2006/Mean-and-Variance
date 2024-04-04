@@ -18,12 +18,14 @@ The expectation or the mean of a discrete random variable is a weighted average 
 values of the random variable. The weights are the probabilities associated with the corresponding values. 
 It is calculated as,
 
-![image](https://user-images.githubusercontent.com/103921593/192938463-e34177f4-f188-48a0-bda2-8f6d1d660ed2.png)
+![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/10df0308-1d67-4fb8-95d5-271b7fa80baf)
+
 
 The variance of a random variable shows the variability or the scatterings of the random variables.
 It shows the distance of a random variable from its mean. It is calcualted as
 
-![image](https://user-images.githubusercontent.com/103921593/192938695-99fedc01-34d5-4d36-84df-5880e766ed0c.png)
+![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/a8435827-39a5-46b8-9fc2-d74d7e91aeb8)
+
 
 
 # Procedure :
@@ -34,20 +36,24 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 3. Calculate mean using 
    
-   ![image](https://user-images.githubusercontent.com/103921593/192940431-03b81777-c54d-4286-b4f4-82dfe7666b4c.png)
+   ![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/302e18cf-e5d0-4bc5-8088-64355646c229)
+
 
 4. Find  
    
-      ![image](https://user-images.githubusercontent.com/103921593/192940255-2d9dd746-6875-4a6d-877b-6da6cdb96ab1.png)
+   ![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/057ac1ff-2a81-4efe-9619-368ec32d2445)
+
 
 5.  Calculate variance using 
   
-      ![image](https://user-images.githubusercontent.com/103921593/192942852-913550a9-fabe-4a55-b956-0487b18bbd97.png)
+      ![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/b9d1d381-d59c-47f3-8d35-53aa85314760)
+
 
 
 # Experiment :
 
-![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
+![image](https://github.com/NAVEEN-2006/Mean-and-Variance/assets/152067648/a5e8371f-6b12-45ca-b92e-63bbf0787ba0)
+
 
 # Program :
 
